@@ -44,7 +44,6 @@ const ToDoList = () => {
           onChange={handleInputChange}
         />
       </div>
-      <br />
       <button className="add-button" onClick={addTask}>
         Add
       </button>
